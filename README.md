@@ -1,6 +1,6 @@
 # NikkiMedia
 
-这里是关于[闪耀暖暖搭配学院升级所需要的材料的统计表Excel格式](https://github.com/Furret2018/NikkiMedia/blob/master/%E9%97%AA%E8%80%80%E6%9A%96%E6%9A%96.xlsx) 
+这里是关于[闪耀暖暖搭配学院升级所需要的材料的统计表](https://github.com/Furret2018/NikkiMedia/blob/master/%E9%97%AA%E8%80%80%E6%9A%96%E6%9A%96.xlsx) Excel格式
 
 
 
