@@ -1,7 +1,6 @@
 # NikkiMedia
 
-> 这里是关于[闪耀暖暖搭配学院升级所需要的材料的统计表](https://github.com/Furret2018/NikkiMedia/blob/master/%E9%97%AA%E8%80%80%E6%9A%96%E6%9A%96.xlsx) Excel格式
->
+> 这里是关于[闪耀暖暖搭配学院升级所需要的材料的统计表](https://github.com/Furret2018/NikkiMedia/blob/master/%E9%97%AA%E8%80%80%E6%9A%96%E6%9A%96.xlsx) Excel格式  
 > 旨在帮助本联盟的小伙伴参考，通过**限时掉落翻倍活动**配合本表，预先收集物品，快速升级战斗力
 
 本表参考了文末的3个网页。
