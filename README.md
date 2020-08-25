@@ -25,5 +25,6 @@ Reference Links
 - [第一期材料表](https://baijiahao.baidu.com/s?id=1642283012403742712&wfr=spider&for=pc)
 - [这里是第一期材料表 各级明细 个人认为这个比较详细，准确，就是网页图片有点儿模糊](https://www.9k9k.com/shouyou/syll_135060.html)
 - [第二期材料表](http://www.gamedog.cn/games/a/2765264.html)
+- [百度贴吧](https://tieba.baidu.com/p/6659391957)
 
 
