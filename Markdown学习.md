@@ -2,7 +2,7 @@
 
 # Editors
 
-- [] [Typora](https://sspai.com/post/54912)
+- [Typora](https://sspai.com/post/54912)
 
 
 
