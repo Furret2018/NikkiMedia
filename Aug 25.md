@@ -8,7 +8,7 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 
 ## Markdown learning
-换行： 在上一行结尾加1个空格(如果依然不能换行，那就加2个空格)，再回车。 如果不加空格，就会像HTML一样，即使有１个换行也会被忽略，仍被显示在同一行中。 
+换行： 在上一行结尾加1个空格(如果依然不能换行，那就加2个空格)，再回车。 如果不加空格，就会像HTML一样，即使有１个换行也会被忽略，仍被显示在同一行中。  
 加粗： **Content**  content中好像不能有括号（至少Github中使用会出现问题）
 
 
