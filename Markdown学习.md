@@ -42,7 +42,18 @@
 
 
 
-# Editors
+
+
+
+
+# 参考链接
+- [MarkDown CheatSheet 速查表](https://blog.csdn.net/vitaminc4/article/details/75271323) 或者 [英文原文](https://warpedvisions.org/projects/markdown-cheat-sheet/)
+- [Markdown-here工具的速查表](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+更多参考文章
+- [你要Markdown不要？看完就爱上🎉🎉🎉](https://zhuanlan.zhihu.com/p/127370233)
+- [Markdown cheatsheet（个人版本](https://zhuanlan.zhihu.com/p/83649046)
+
+
 
 - [Typora](https://sspai.com/post/54912)
 
