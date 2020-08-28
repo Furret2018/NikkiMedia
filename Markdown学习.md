@@ -58,12 +58,52 @@
 - [Typora](https://sspai.com/post/54912)
 
 
+-------------------------
+
+markdown如何实现锚点功能
+https://blog.csdn.net/wangzhibo666/article/details/88731227
+https://www.jianshu.com/p/debd64e591a0
+
+> Markdown style
+```
+- [测试](#测试)
+### <a id="测试">测试</a>
+```
+
+> HTML style
+```
+### <a href="#测试2">测试2</a>
+h
+t
+m
+l
+<a id="测试2">测试2</a>
+```
+> Github会自动将Markdown文件中的标题设置成链接，所以只要在浏览模式下，点击标题，地址栏里#后出现的即是锚点，直接用作锚点即可。
+
+https://www.duitang.com/album/?id=87602478&spm=2014.12553688.202.0
+https://www.duitang.com/album/?id=88106280&spm=2014.12553688.202.0
+https://www.duitang.com/album/?id=70177280&spm=2014.12553688.202.0
+https://www.duitang.com/blog/?id=793235017
 
 
 
 
+https://lilinnan.com/sntx/#/mainland
 
 
+
+
+```
+You have a new badge!
+You contributed code to the 2020 GitHub Archive Program and now have a badge for it. Thank you for being part of the program!
+
+To opt out of displaying this badge, visit your profile settings.
+
+
+
+Arctic Code Vault Contributor
+```
 
 
 
