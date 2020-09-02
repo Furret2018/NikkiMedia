@@ -2,6 +2,81 @@
 分享：用四十种语言分别写一个MD5算法 之35 R语言MD5算法
 https://blog.csdn.net/sooch/article/details/6683091
 
+
+
+
+```
+
+# 
+library(digest)
+
+
+target <- c(12313)
+
+hexdigest <- digest(target, algo = "md5", serialize = FALSE)
+# hexdigest <- digest("Nikki@2020", algo = "md5")
+cat(hexdigest)
+
+
+
+
+
+
+library(openssl)
+md5("Nikki@2020")
+
+
+
+
+
+# help system: https://www.r-project.org/help.html
+?rvest
+help("rvest")
+help(package="rvest")
+
+example(rvest)
+example(curl)
+
+
+# Guide BOOK https://cran.r-project.org/manuals.html
+#
+# An Introduction to R
+# R Data Import/Export
+# R Installation and Administration
+# Writing R Extensions
+#
+# The R language definition
+# R Internals 
+# The R Reference Index
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
 R语言零碎
 http://blog.sina.com.cn/s/blog_a7a40d1b0102vkji.html
 
