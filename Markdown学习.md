@@ -1,31 +1,52 @@
 # 基本语法
-  
+3 sections:
+
+* 文字修饰
+* 段落修饰
+* 多媒体支持
+
+*******************************************************************
+
 ## 对于文字修饰
-### 标题 (Heading)
-> 使用#表示，一共分6级标题。   
-> 或者使用=和-表示一级和二级标题   
 
-### 斜体 (italic)
-> 使用\*表示
-> 或者使用_表示
+#### 标题 (Heading)
+使用#表示，一共分6级标题。   
+或者,使用=和-表示一级和二级标题
 
-### 加粗 (Bold)
-> 使用\*\*表示
-> 或者使用\_\_表示
+```
+# Top Level Heading
+## 2nd Level Heading
+### 3rd Level Heading
+
+Top Level Heading
+=================
+
+2nd Level Heading
+-----------------
+
+```
+
+#### 斜体 (Italic)
+使用*表示
+或者使用_表示
+
+#### 加粗 (Bold)
+使用**表示
+或者使用__表示
 
 ### 又粗又斜
-> 3个\*   
-> 或者3个\_
+3个*   
+或者3个_
 
 ### 加下划线（underline）
-> 使用HTML标记u   
-> 使用形式： `<u>your words</u>`
+使用HTML标记u   
+使用形式： `<u>your words</u>`
 
 ### 删除线 (delete)
 > 2个波浪符 ~~
 
 ### 超链接
-> 使用形式: `[visible words](Real_link_url)`    
+使用形式: `[visible words](Real_link_url)`    
 也可以直接输入链接url    
 高级链接，使用两个中括号，和1个键值对表示。用途：为了把链接都放在文末，方便修改管理。
 
@@ -35,11 +56,11 @@
 [NikkiMedia]: https://github.com/Furret2018/NikkiMedia 
 
 
-### 脚注
-> 样式相当HTML上标文字
-> 书写形式 `[^your words]`
+#### 脚注
+样式相当HTML上标文字
+书写形式 `[^your words]`
 
-### 代码
+#### 代码
 这里指单行代码，可以用反引号包起来
 
 ```
@@ -126,17 +147,19 @@ cat("Hello World!") # print 'Hello World!'
 
 
 -----------------------------------
+
 ## 多媒体支持
 ###### 插入图片
-使用格式`![optional文字](image_URL optionaTitle)`
+使用格式`![optional文字](image_URL optionaTitle)`   
 也可使用类似于高级链接的方式：
 
+```
+Athena from Sword Online [Athena][athenaavator]
 
-Athena from <sword online> 
-[Athena][athenaavator]
+
 
 [athenaavator]: http://ys-n.ys168.com/600447130/k4K44533K84M73lpimmq/12962442.png
-
+```
 
 
 
@@ -156,7 +179,7 @@ Athena from <sword online>
 
 
 
-********************************************************************
+*******************************************************************
 
 # 参考链接
 - [MarkDown CheatSheet 速查表](https://blog.csdn.net/vitaminc4/article/details/75271323) 或者 [英文原文](https://warpedvisions.org/projects/markdown-cheat-sheet/)
@@ -204,4 +227,5 @@ https://www.duitang.com/blog/?id=793235017
 https://lilinnan.com/sntx/#/mainland
 
 
-
+Furret2020
+same to ciao@gamil.com
