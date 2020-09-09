@@ -29,6 +29,8 @@ invocation.
 Already up to date.
 ```
 
+*****************************************************************************
+
 ```
 >>> C:/Users/gliu1586/Desktop/PortableGit/bin/git.exe commit -F C:/Users/gliu1586/AppData/Local/Temp/Rtmp805suX/git-commit-message-2a485e112634.txt
 [master 4d8da06] on Sept 9th, add the file "English Words.md" Aim: record the work that I meet in regular work.
