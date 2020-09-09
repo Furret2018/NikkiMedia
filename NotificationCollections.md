@@ -1,4 +1,4 @@
-> from GitHub website
+# from GitHub website
 
 ```
 You have a new badge!
@@ -9,7 +9,9 @@ To opt out of displaying this badge, visit your profile settings.
 Arctic Code Vault Contributor
 ```
 
-> from GitHub in RStudio
+----------------------------------------------------------------------------
+
+# from GitHub in RStudio
 
 ```
 >>> C:/Users/gliu1586/Desktop/PortableGit/bin/git.exe pull
