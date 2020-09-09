@@ -29,7 +29,24 @@ invocation.
 Already up to date.
 ```
 
+```
+>>> C:/Users/gliu1586/Desktop/PortableGit/bin/git.exe commit -F C:/Users/gliu1586/AppData/Local/Temp/Rtmp805suX/git-commit-message-2a485e112634.txt
+[master 4d8da06] on Sept 9th, add the file "English Words.md" Aim: record the work that I meet in regular work.
+ Committer: Jack Liu <gliu1586@aspac.convergys.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
 
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 13 insertions(+)
+ create mode 100644 Englisth Words.md
+```
 
 
 
