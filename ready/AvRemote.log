@@ -1,0 +1,5 @@
+07/18/2019 21:41:12 --> CAvConfigApp::InitInstance
+07/18/2019 21:41:12 <-- CAvConfigApp::InitInstance
+07/18/2019 21:41:12 <-> CAvConfigApp::DllRegisterServer
+07/18/2019 21:41:12 --> CAvConfigApp::ExitInstance
+07/18/2019 21:41:12 <-- CAvConfigApp::ExitInstance
