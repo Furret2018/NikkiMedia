@@ -1,0 +1,357 @@
+https://app.linuxacademy.com/
+
+
+
+
+# https://linuxacademy.com/cp/courses/lesson/course/1760/lesson/6
+Lecture: Schedule tasks to run at a set date and time
+
+Often, you will need a task to run over and over again, preferably at the same time each day, week, or month. In this lesson, we'll demonstrate using cron and how to use the crontab tool to list and set up scheduled tasks. At the end of this lesson, you will be able to schedule your own tasks to run at the precise moment you need them.
+
+$ crontab -l 
+
+$ crontab -e
+
+
+# https://linuxacademy.com/cp/courses/lesson/course/1760/lesson/7
+Lecture: Verify completion of scheduled jobs
+
+Once your scheduled jobs are complete, how do you know how things turned out? In this lesson, we'll discuss the different places cron will log on different distributions and take a look at the output. At the end of this lesson, you'll be able to figure out what happened to that job you scheduled, and whether or not it was successful.
+
+
+$ cd /var/log
+$ ls -la
+$ cat syslog
+
+
+# https://linuxacademy.com/cp/courses/lesson/course/1760/lesson/8
+Lecture: Update software to provide required functionality and security & manage software, Part 1 - Ubuntu/Debian
+
+Knowing how to manage software on a Linux system in order to provide the functionality that your users and developers require while maintaining a secure system is critical! In this lesson, we'll cover the tools around the aptitude package management system, commonly used in Debian systems such as Ubuntu. We'll take a close look at dpkg, apt-get, and aptitude. At the end of this lesson, you'll feel comfortable updating, installing, and uninstalling packages on Ubuntu and other Debian systems.
+
+
+$ man dpkg
+$ sudo dpkg -l
+
+
+
+# https://linuxacademy.com/cp/courses/lesson/course/1760/lesson/10
+Lecture: Verify the integrity and availability of resources
+
+What counts as a resource on a Linux machine? Hard disk space and RAM! In this lesson, we'll show you how to verify the integrity of the main resources a Linux server needs using the ubiquitous fsck and memtest86+ tools. At the end of this lesson, you'll be able to check out your rig and verify it's ready to go!
+
+
+
+$ lsblk
+$ sudo umout /mnt
+$ sudo fsck -y /dev/xvdf1
+
+$ sudo reboot (hold shift button)
+
+# https://linuxacademy.com/cp/courses/lesson/course/1760/lesson/11
+Lecture: Verify the integrity and availability of key processes
+Figuring out which processes are active can be a little bit of a challenge. In this lesson, we'll make use of tools like ps, top and htop to take a closer look at the inner workings of our systems. After this lesson, you'll be able to these tools on your systems, too.
+
+$ man ps
+$ ps
+ps -A
+ps -e
+ps au
+ps aux
+ps -ef
+ps -fU root
+
+ps -fG root
+
+pf -fp 8150
+pf -e --forest
+
+pf -f --forest -C sshd
+
+ps aux 
+ps aux | grep cron
+top
+htop
+sudo apt install htop
+
+
+
+
+# https://linuxacademy.com/cp/courses/lesson/course/1760/lesson/12
+Lecture: Change kernel runtime parameters, persistent and non-persistent
+
+In a Linux system the kernel controls almost every aspect of the operating system. Often, you will need to change parameters without taking the system down. Sometimes those changes are temporary, and sometimes they should survive a reboot. In this lesson, we'll demonstrate how to change kernel runtime parameters in ways that do and do not survive a system reboot. After this lesson, you'll be able to view parameters and change them with ease.
+
+
+
+$ sudo sysctl -a
+$ sudo sysctl -a | wc -l
+cd /proc/sys
+
+# https://linuxacademy.com/cp/courses/lesson/course/1760/lesson/13
+Lecture: Use scripting to automate system maintenance tasks
+Scripting is what separates the champions from the runners-up in the game of Linux! In this lesson, we'll go over the basics of shell scripting and create a very basic script to perform a series of commands in a set sequence. At the end of this lesson, you'll be able to craft sequential scripts that combine a series of commands.
+
+
+# https://linuxacademy.com/cp/courses/lesson/course/1760/lesson/14
+Lecture: Scripting conditionals and loops
+
+
+Bash scripting can be a lifelong study, enabling complex behaviors if you know how it's done. In this lesson, we'll take a look at how to conditionally execute code with "if," as well as how to execute the same code over and over again with "while." At the end of this lesson, you'll understand bash scripting control structures like if and while.
+
+
+#!/bin/bash
+./spt.sh
+
+
+$ chmod +w spt.sh
+
+mkdir -p /home/liu300/test
+
+
+
+# https://linuxacademy.com/cp/courses/lesson/course/1760/lesson/15
+Lecture: Manage the startup process and services (In Services Configuration)
+
+Starting applications on Linux is fairly easy, depending on which service manager your system uses. In this lesson, we'll go over the basics of both! Upstart and systemctl manage startup processes and services on Linux, and we'll demonstrate how to use each of them. At the end of this lesson, you'll feel comfortable starting processes on both systemctl and upstart systems!
+
+$ cd /etc/init
+$ cat ssh.conf
+$ status ssh
+$ ps aux | grep <sshd-pid>
+
+$ status cron
+$ stop cron
+$ status cron
+$ start cron
+$ start cron
+$ restart cron
+$ ls - la cron*
+
+$ echo manual | sudo tee /etc/init/cron.override 
+$ ls -la cron*
+$ systemctl status sshd
+$ systemctl stop cron
+$ sudo su
+
+$ systemctl status cron
+
+$ systemctl disable cron
+$ cd /etc/systemd/
+$ ls -la
+
+$ systemctl enable cron
+
+
+
+
+# https://linuxacademy.com/cp/courses/lesson/course/1760/lesson/16
+Lecture: List and identify SELinux/AppArmor file and process contexts
+In order to prevent unintended consequences, Linux systems often employ security tools that prevent applications from overstepping their authority. Different distributions employ similar strategies, though implemented by different packages. In this lesson, we'll look at the utilities that will allow us to view the file and process contexts for both SELinux and AppArmor. At the end of this lesson, you'll be able to describe and find file and process contexts for both SELInux and AppArmor.
+
+$ sudo semanage fcontext -l
+
+$ sudo semanage fcontext -l | grep httpd
+
+$ cd /etc/rc.d
+
+$ ls -la
+$ ls -Z
+
+
+
+
+$ ps auxZ
+$ ps auxZ | grep sshd
+
+
+$ sudo aa-status
+$ cd /etc/apparmor.d
+
+
+
+# https://linuxacademy.com/cp/courses/lesson/course/1760/lesson/17
+Lecture: Identify the component of a Linux distribution that a file belongs to
+
+Linux administrators will sometimes find themselves faced with a situation where they need to be able to find out which package or packages provide a particular file, such as a library or module. In this brief lesson with the MOST long-winded title, we'll discuss different methods of finding out which package was the origin for which file on a variety of distributions. We'll be demonstrating the usage of rpm and dpkg. At the end of this lesson, you'll be able to figure out which files are offered by which packages on Debian/Ubuntu systems as well as on RedHat/Centos systems.
+
+$ rpm -qlp
+$ cd /bin/
+$ ls -la
+$ rpm -qf /bin/znew
+
+$ yum whatprovides /bin/znew
+
+$ ls -la
+$ dpkg -S /usr/bin/zdump
+
+$ dpkg -L libc-bin
+
+
+
+
+PART: User and Group Management (10% of the Exam)
+
+# https://linuxacademy.com/cp/courses/lesson/course/1776/lesson/1
+Lecture: Create, Delete, and Modify Local User Accounts
+
+Maintaining user accounts is a staple activity in the life of a Linux Administrator. In this lesson, we'll explore the differences between the useradd and adduser utilities (SPOILERS - useradd is the old, multiple steps method and adduser is the newer, does stuff for you method!). After you complete this lesson, you'll have a couple of options on your toolbelt for creating, modifying and removing user accounts.
+
+$ useradd -d /home/testuser1 testuser1
+$ cat /etc/group
+$ passwd testuser1
+
+# root right
+$ mkdir testuser1
+$ chown testuser1:testuser1 testuser1
+
+$ su - testuser1
+$ touch myfile.txt
+
+# new method
+$ adduser testuser2
+
+$ userdel testuser2
+
+$ chown -R user1:user1 user2
+
+$ rm -r user2
+$ ls -la
+$ userdel -r user2
+$ ls -la
+
+
+
+# https://linuxacademy.com/cp/courses/lesson/course/1776/lesson/2
+Lecture: Create, Delete, and Modify Local Groups and Group Memberships
+
+Groups are one of the primary ways permissions get applied to users of a Linux system. In this lesson, we'll take a closer look at how to create and delete groups as well as making users members of different groups using the /etc/group file, the groups command, addgroup and groupadd, and chgrp. At the end of this lesson, you'll be able to build your own groups and create your own custom permissions based on them.
+
+Update: you can use the newgrp command to login to a new group.
+
+
+
+$ cat /etc/group
+
+$ addgroup test1
+$ vi /etc/group
+
+$ groups
+
+$ newgrp test1
+
+# change password for group
+$ sudo gpasswd test1
+
+
+# https://linuxacademy.com/cp/courses/lesson/course/1776/lesson/3 
+Lecture: Manage System-Wide Environment Profiles
+
+Application configuration in Linux is usually done with environment variables. In this lesson, we'll demonstrate setting environment variables that might need to be set across the system. After this lesson, you will be able to set environment variables.
+
+Correction: On RHEL7, best to edit either ~/.profile or the ~/.bash_profile to make global env variables available after startup (instead of /etc/environment).
+
+
+$ env
+$ export XX_VAR="this is atest"
+$ echo $XX_VAR
+$ unset XX_VAR
+$ echo $XX_VAR
+
+$ less .bashrc
+$ less .profile
+
+$ cat /etc/environment
+
+$ env -i bash
+
+
+# https://linuxacademy.com/cp/courses/lesson/course/1776/lesson/4
+
+Lecture: Manage Template User Environment
+
+Templates make everything easier; managing users is no exception. In this lesson, we'll discuss the significance of the /etc/skel directory and how you can use it to manage user environments on your systems. After this lesson, you'll be able to configure your /etc/skel directory to contain precisely the files you wish to bestow to your new users.
+
+
+# https://linuxacademy.com/cp/courses/lesson/course/1776/lesson/5
+
+Lecture: Configure User Resource Limits
+
+In order to preserve the availability of your server, sometimes you have to put limits on users. In this lesson, we'll talk about how to limit user resource usage by editing the /etc/security/limits.conf file. After this lesson, you should feel confident protecting your processors and hard drive space from resource hogs.
+
+$ man limit.conf   # /etc/security/limits.conf
+
+
+
+
+# https://linuxacademy.com/cp/courses/lesson/course/1776/lesson/6
+
+Lecture: Manage User Privileges
+
+I want some users to be able to run a command, but not others. What's an admin to do?! In this lesson, we'll take a look at how file permissions, which limit which commands a user may execute depending on group memberships, as well as how to limit whether and from where a user can log in to the system. After this lesson, you will be able to restrict command execution to particular groups.
+
+# cd /etc/security
+
+$ sudo vi access.conf
+$ id
+
+
+$ sudo chgrp adm chadcmd
+
+
+# https://linuxacademy.com/cp/courses/lesson/course/1776/lesson/7
+Lecture: Configure PAM
+
+Remember that time on The Office where Dwight built a robot version of the receptionist and... Wait! Not that PAM! Pluggable Authentication Modules in Linux allows you to configure and reconfigure how authentication takes place in PAM-aware applications. In this lesson, we'll discuss PAM and what it is for, and how systems administrators can use it to configure PAM-aware applications to use a particular authentication scheme. After this lesson, you will be able to configure PAM on Linux systems.
+
+$ vi /etc/pam.conf
+
+$ cd /etc/pam.d
+
+
+
+
+
+
+https://linuxacademy.com/course/linux-foundation-certified-system-administrator-v3-18/
+https://linuxacademy.com/course/linux-networking-and-troubleshooting/ 
+https://linuxacademy.com/course/linux-foundation-certified-engineer/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

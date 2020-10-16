@@ -1,0 +1,106 @@
+
+How to Add a New User in Avaya Call Management System
+https://www.youtube.com/watch?v=SxBU9NudSqI&list=PLcokUoKSmP-UWV3b7pklWm5GqH1fq9iIx
+
+
+Avaya 9608 IP Phone training
+https://www.youtube.com/watch?v=iphaNug-_FM
+
+
+
+
+
+Avaya 9608 Basic user guide
+https://www.youtube.com/watch?v=w79eIzAF-D4
+
+
+
+
+
+
+
+
+
+
+
+Avaya ACR Installation and Administration
+https://www.youtube.com/watch?v=fsgGoBKOQ48
+
+
+Avaya ACR Administration Training Session
+https://www.youtube.com/watch?v=vGPYnYaGzEs
+
+
+
+Using Putty with CMS
+https://www.youtube.com/watch?v=ZDFZMJ0ducU
+
+
+
+
+response
+respond
+consistent
+stable
+stability
+responsibilty
+
+sibling
+
+degrade
+downgrade 
+
+indicate
+indication
+
+clue
+
+lift
+sagging
+
+jowls
+
+overlaps
+
+paradisus
+
+development
+
+
+
+
+
+AADS: Cassandra not running after restart of AADS
+https://support.avaya.com/ext/index?page=content&id=SOLN346081
+
+
+Session Manager : Cassandra service down
+https://support.avaya.com/ext/index?page=content&id=SOLN339142
+
+
+
+SR#1-16232801913 ||-can default "root" & "cust" account name can be change it to “admin” or other
+
+AADS (Avaya Aura Device Services) : System Layer update procedure related information
+https://support.avaya.com/ext/index?page=content&id=SOLN318245
+
+Log collection procedure or Log capture Procedure for Avaya UC systems
+https://support.avaya.com/ext/index?page=content&id=TRNG100403
+
+
+
+AADS 7.1.5 deployment fails with Cassandr database errors
+https://support.avaya.com/ext/index?page=content&id=SOLN343117
+
+
+
+AADS: how to start the http service on util within AADS?
+https://support.avaya.com/public/index?page=content&id=SOLN340475
+
+
+
+Avaya Aura Device Services: Getting Final Cassandra setup failed. Aborting when deploying AADS
+https://support.avaya.com/ext/index?page=content&id=SOLN323370
+
+AADS : AADS can't access Cassandra DB
+https://support.avaya.com/ext/index?page=content&id=SOLN321042

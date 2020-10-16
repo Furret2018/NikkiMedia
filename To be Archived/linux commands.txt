@@ -1,0 +1,26 @@
+
+Linux 命令大全
+https://www.runoob.com/linux/linux-command-manual.html
+
+
+
+Video call is not working well on ACC2.0 with shared control mode
+https://support.avaya.com/ext/index?page=content&id=SOLN266924
+
+
+
+
+
+
+linux禁止root账号直接登录
+https://blog.csdn.net/CsdnGame/article/details/82784277
+
+
+
+如何读懂LINUX里的UID和GID以及passwd
+https://jingyan.baidu.com/article/8275fc865380d846a13cf676.html
+
+
+
+
+

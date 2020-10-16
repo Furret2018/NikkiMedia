@@ -1,0 +1,24 @@
+
+
+
+
+windows用命令行查看硬件信息
+https://www.cnblogs.com/juandx/p/3989218.html
+https://blog.csdn.net/weixin_33815613/article/details/85658138
+
+https://www.jb51.net/article/49986.htm
+
+
+
+Windows系统中CMD wmic查看硬盘、内存、CPU、BIOS、网卡等信息。
+https://www.cnblogs.com/fusheng11711/p/11959106.html
+
+
+怎么查看本机S/N序列号和BIOS版本
+https://jingyan.baidu.com/article/4f7d5712a6e1671a20192715.html
+
+
+
+
+Windows WMIC命令使用详解(附实例)
+https://www.jb51.net/article/49987.htm

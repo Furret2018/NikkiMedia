@@ -1,0 +1,53 @@
+Linux Foundation Certified Engineer
+
+
+
+PART : Introduction
+
+# https://linuxacademy.com/cp/courses/lesson/course/2262/lesson/1
+Lecture: About the Course
+
+
+
+# https://linuxacademy.com/cp/courses/lesson/course/2262/lesson/2
+Lecture: About the Author
+
+
+
+
+# https://linuxacademy.com/cp/courses/lesson/course/2262/lesson/3
+Lecture: About the Exam
+
+
+PART: Essential Commands
+
+# https://linuxacademy.com/cp/courses/lesson/course/2532/lesson/1
+Lecture: Use Version Control Tools
+Version Control systems are vital in todays server administrator career. In this video we go over some background on version control tools in general and why they're useful, and then have a short demo on git.
+
+$ touch file1
+git init
+git add
+git status
+
+
+git config --global user.name <name>
+git config --global user.mail <mail>
+
+git commit
+git log
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

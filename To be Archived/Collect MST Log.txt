@@ -1,0 +1,53 @@
+# Collect MST Log
+
+## References : 
+
+Avaya Video: 		How to collect Communication Manager ecs logs with logc https://www.youtube.com/watch?v=cAGFfDpXE-w
+CM document : 		[2020-03] Maintenance Commands for CM.pdf
+Sample: 			[1-16171448022]--Sino life--ICLID display issue when call from ISDN-PRI to 3rd party SBC via SIP trunk
+Screen reference : 	SR#1-16200262342 [ep通过cm进行身份证验证或密码验证过程中发现收到的客户按键少位或多位]
+
+## Detail Steps
+Step 1: check with BBE for the mst parameters 
+
+step 2: set mst in CM CLI and do dialing test
+status mst # show the status of mst
+change mst # start to change the parameters (follow BBE`s suggestion)
+display mst # show the mst set, check if wanted param are set
+enable mst #   		double check with status mst
+============
+do dialing test
+============
+disable mst # double check with status mst
+
+step 3: collect log with command logc 
+Log path: /var/log/ecs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

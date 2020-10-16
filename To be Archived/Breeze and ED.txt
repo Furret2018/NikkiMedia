@@ -1,0 +1,30 @@
+
+
+
+Breeze
+=======================================================
+
+SR# 1-16113599412 ||-Breeze cluster change in to denying servicestate.
+SR#1-16071878162 ||-Breeze 日志分区占用较多，已经超过80%，需要avaya帮忙去删除日志，以腾出磁盘空间
+
+
+
+
+
+
+SR#1-15934543902 [one of Breeze server 's system state is Denying and Overload Status is failed.]
+SR#1-15936496330 Breeze have database information issue need to Avaya Engagement Designer assist to follow up. 
+
+
+
+
+CRS
+=======================================================
+SR#1-13975668609 [ACR2 lost connect with CRS]
+Fubon HK: Avaya SR#1-13965070342 PCCW Ref :  169262 [cannot play back for call id 00001066331535523716]-SO180830-10
+Fubon Hong Kong ACR issue || onsite enable debug log
+
+
+1-13965070342
+
+

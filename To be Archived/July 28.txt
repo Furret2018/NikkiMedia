@@ -1,0 +1,38 @@
+Alter, Alert
+Alert: SQL改表语句
+Alert: Javascript弹窗告警函数
+
+SQL ALTER TABLE 语句
+https://www.w3school.com.cn/sql/sql_alter.asp
+
+Window alert() 方法
+https://www.runoob.com/jsref/met-win-alert.html
+
+
+js中三种弹窗的简单使用alert、confirm、prompt
+https://blog.csdn.net/YuanMxy/article/details/80703515
+
+
+alternative substitute Replacement
+
+
+
+
+
+js 复制文本到剪切板 document.execCommand("copy")
+https://blog.csdn.net/ChisameMuko/article/details/100840201
+https://developer.mozilla.org/zh-CN/docs/Web/API/Document/execCommand#%E6%B5%8F%E8%A7%88%E5%99%A8%E5%85%BC%E5%AE%B9%E6%80%A7
+
+
+
+
+
+
+
+
+
+
+
+
+
+

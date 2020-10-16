@@ -1,0 +1,88 @@
+
+
+
+
+
+
+
+
+https://www.it610.com/article/1281481928179990528.htm
+linux中yum命令 原文：https://www.runoob.com/linux/linux-yum.html
+
+
+https://www.runoob.com/linux/linux-command-manual.html
+
+
+
+
+Python 2.7 Scripting For System Administrators
+
+
+PART: Introduction
+
+
+# https://linuxacademy.com/cp/courses/lesson/course/1484/lesson/4
+Lecture: Syllabus
+
+
+PART: Introducing Python
+
+
+
+PART： Just Enough Python
+
+
+
+
+Linux下面究竟什么是symbolic link, 怎样创建一个symbolic link
+https://blog.csdn.net/lizhi200404520/article/details/7191912
+
+Linux文件权限属性后面有个点
+https://www.cnblogs.com/xiaoyanger/p/7264151.html
+
+
+
+
+CM 管理网页文件所在的路径：
+/opt/ecs/web/cm/server
+
+
+命令所在的路径 ：
+/opt/ecs/bin/almdisplay
+
+whereis cmpasswd
+whereis server
+whereis almdisplay
+
+
+
+$ file almdisplay   # /opt/ecs/bin/almdisplay: symbolic link to `/opt/ws/almdisplay'
+
+
+[root@lushrzd123 cm]# whereis cmpasswd
+cmpasswd: /opt/ecs/bin/cmpasswd
+[root@lushrzd123 cm]# file /opt/ecs/bin/cmpasswd
+/opt/ecs/bin/cmpasswd: symbolic link to `cmuser'
+
+
+[root@lushrzd123 bin]# help cmuser
+-bash: help: no help topics match `cmuser'.  Try `help help' or `man -k cmuser' or `info cmuser'.
+[root@lushrzd123 bin]# man -k cmuser
+cmuser: nothing appropriate.
+
+
+
+[root@lushrzd123 bin]# file /opt/ecs/bin/cmuser
+/opt/ecs/bin/cmuser: symbolic link to `/opt/ws/cmuser'
+[root@lushrzd123 bin]# file /opt/ws/cmuser
+/opt/ws/cmuser: Bourne-Again shell script, ASCII text executable
+
+
+https://baijiahao.baidu.com/s?id=1671648705422671137&wfr=spider&for=pc
+http://edu.sina.com.cn/gaokao/2020-07-09/doc-iircuyvk2906894.shtml?wm=22
+http://www.xhby.net/zt/jj2020njsgk/yaowen/202007/t20200711_6724348.shtml
+https://baijiahao.baidu.com/s?id=1671932313969815130&wfr=spider&for=pc
+
+https://tiku.baidu.com/web/quedetail/2a3f7fb469dc5022aaea00cc?channel=pc_aladdin_zhenti_province_tiku
+
+

@@ -1,0 +1,15 @@
+
+
+CM: Primary CDR link is down but can ping CDR machine
+https://kb.avaya.com/kb/index?page=content&id=SOLN206014
+
+
+
+
+CM 7.0 : Primary CDR buffer shows 100 % full and Secondary CDR went down, need RCA.
+https://kb.avaya.com/kb/index?page=content&id=SOLN334417
+
+
+Communication manager (CM): CDR link is up but no CDR data is being collected.
+https://kb.avaya.com/kb/index?page=content&id=SOLN225234
+

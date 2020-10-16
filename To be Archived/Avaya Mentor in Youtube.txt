@@ -1,0 +1,162 @@
+Github blog
+
+
+Contact Recorder
+
+
+python website test on Avaya Lab
+
+
+===============================================
+UC
+=======================================================
+
+Avaya Presence Services: How to Restart the Spirit Agent and Send a Test Alarm
+https://www.youtube.com/watch?v=3tFBvxuY4-w
+
+
+How to Add or Remove an Avaya SAL Gateway to Avaya Presence Services
+https://www.youtube.com/watch?v=_YVVZAaNtKA
+
+
+Avaya Communication Manager Utility Server and its TFTP server functionality
+https://www.youtube.com/watch?v=-s-vEM3z7kw
+
+
+How to Perform a Backup of Avaya System Platform Backup with Cdom CLI
+https://www.youtube.com/watch?v=vD9ptZw5wLo
+
+
+Avaya one-X Communicator Log Collection
+https://www.youtube.com/watch?v=jB2u_diSJjo
+
+
+Avaya Aura System Manager Log Harvester
+https://www.youtube.com/watch?v=57dEyvAvFDc
+
+
+How to synchronize Avaya Aura Communication Manager data with Avaya Aura System Manager
+https://www.youtube.com/watch?v=Pzn4nKFgtIQ
+
+
+How to Perform a Backup of System Platform
+https://www.youtube.com/watch?v=M1diInFGZ1I
+
+
+How to Backup Communication Manager and Communication Manager Messaging
+https://www.youtube.com/watch?v=QrD-84_m00k
+
+
+Call Routing Test in Avaya Aura Session Manager
+https://www.youtube.com/watch?v=6WEeOZhsJgs
+
+
+How to Configure Packet Storm Control Settings on an Avaya WLAN 8100 WC
+https://www.youtube.com/watch?v=7dvSs3a0W0c
+
+
+How to Administer an Avaya Aura Session Border Controller (SBC) SNMP Trap Target
+https://www.youtube.com/watch?v=JYVSUCuLMys
+
+
+How to configure Polycom RMX Dual-Connect SIP & H323 with Avaya Aura 6.x
+https://www.youtube.com/watch?v=KJZhrJlf69U
+
+
+
+Configure Avaya Aura System Platform to Alarm through the Standalone SAL Gateway
+https://www.youtube.com/watch?v=Bnslzs412_0
+
+
+
+
+Provisioning IP parameters using the CLI of the Avaya H.248 Branch Gateway
+https://www.youtube.com/watch?v=j0Xdx-HsU4Q
+
+
+
+How To Provision IPv6 with the H.248 Branch Gateway Customer Self Install Script
+https://www.youtube.com/watch?v=8ptZ5ItPuFE
+
+
+How to change the IP address of Avaya aura system manager deployed on system platform
+https://www.youtube.com/watch?v=sAuDda24KGY
+
+
+
+How to Configure Network Settings on Avaya Aura Session Manager
+https://www.youtube.com/watch?v=wYMd1R_9cB8
+
+
+
+
+
+
+Implementing IPv6 in Avaya Aura Communication Manager 6.2
+https://www.youtube.com/watch?v=AYYixa-ss7E
+
+
+
+
+Setting up the iLO3 Interface on the HP DL360 G7 Server
+https://www.youtube.com/watch?v=domrAka9BNI
+
+
+
+
+Implementing IPv6 within a System Platform Environment
+https://www.youtube.com/watch?v=plSTmi_xB8s
+
+
+
+
+
+
+Configuring IPv6 on an in service Avaya H.248 Branch Gateway
+https://www.youtube.com/watch?v=kzaFsN0xydA
+
+
+
+
+
+
+
+How to sequence applications with users in Avaya Session Manager
+https://www.youtube.com/watch?v=ylSXheYYJL8
+
+
+
+
+
+
+Trust Management between System Manager and Session Manager
+https://www.youtube.com/watch?v=z2jv2MacwHI
+
+
+
+Administering a SIP Trunk in Avaya Aura Communication Manager
+https://www.youtube.com/watch?v=Sius0AaLoBw
+
+
+H.248 Branch Gateway Logging
+https://www.youtube.com/watch?v=X6LScNJ4n5A
+
+
+
+
+How to Remotely Identify the Server Type of an Avaya Aura Communication Manager
+https://www.youtube.com/watch?v=_hKbxTZcA6c
+
+
+
+
+
+
+
+
+Implementing and verifying Clock Sync over IP (CSoIP) in Avaya Communication Manager
+https://www.youtube.com/watch?v=RaYaTgB1p_I
+
+
+
+

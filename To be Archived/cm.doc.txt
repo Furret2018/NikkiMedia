@@ -1,0 +1,41 @@
+SR#1-16029176753 || 1-16029176562
+SR#1-16041951249 ||-CM reload suddnely
+
+
+
+
+
+CM alarm on 4-May		1-16062790529 is created for this issue.
+
+SR#1-16091903738 |Bank of Communications-VoIP issue on G450 gateway
+
+
+
+SR#1-16167056841 [当用户呼入系统,主叫号码会被修改为58623510]
+
+
+
+display mst
+
+1-16171448022
+SR#1-16209861382 |Sino life insurance co.,ltd|-smgr上的sip号码，配置了feature。注册在sbc上通过sm无法正常出局，但号码直接注册在sm上却出局正常，请帮忙分析下问题，谢谢。Time 60
+SR#1-16229382000 ||-At the same time acd to 2 agents
+
+
+SR#1-16169485502 [组网的sbc端反馈用户在来电后dtmf按键输入信息经常会有遗漏导致提示按键输入错误]
+
+SR#1-16167056193  ||- Hasbro cannot make outgoing call
+SR#1-16145299221  ||-CM与其他SIPServer对接后，sip线路中没有收到对方发送的消息。但是对方设备抓包看到的消息是发送之后，但是CM并未应答。
+SR#1-16067672568 ||-System CM 6.3 & SM 6.3 , All SIP Phones connection was failed about 3 minutes and restart again, it's 
+
+SR#1-16157951494 |DBS Bank (Hong Kong) Ltd|- recorder cannot record some calls with alarm “no audio can be captured
+SR#1-16167056841 [当用户呼入系统,主叫号码会被修改为58623510] time 60
+
+SR#1-16171448022 【客户电话呼入ISDN-PRI E1中继，坐席接听后通过SIP转接至组网中继，无法传递原始主叫号码，sip对端提示sip：anonymous】 SR#1-16169485502 [组网的sbc端反馈用户在来电后dtmf按键输入信息经常会有遗漏导致提示按键输入错误] Time 60
+
+
+
+
+
+
+
