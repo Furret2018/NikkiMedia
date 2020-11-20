@@ -30,9 +30,112 @@ https://developer.mozilla.org/zh-CN/docs/Web/API/Document/execCommand#%E6%B5%8F%
 
 
 
+[原创]用户态完美实现"变速齿轮"
+https://bbs.pediy.com/thread-153067.htm
+
+
+
+https://www.jianshu.com/p/44caa9762c62
 
 
 
 
+
+coreldraw12教程(3本合集)中文版PDF 正式版
+https://dl.pconline.com.cn/download/2163280.html
+
+
+微盘 “coreldraw”的搜索结果
+https://vdisk.weibo.com/search/?type=public&keyword=coreldraw
+
+
+
+
+
+
+考勤系统网址 / Worklife
+https://concentrix.ecosaas.com/portal/index
+Easy HR: https://easyHRO.concentrix.com   jack.liu1 
+
+
+
+
+A1SR 
+https://earlyrenewals.avaya.com/csqt/gridview/secured#
+
+
+
+
+https://sourceforge.net/software/product/Office-Timeline/
+https://sourceforge.net/directory/language:cpp/os:windows/?q=library
+
+
+
+
+
+https://open.163.com/newview/movie/free?pid=MFQNVVNBE&mid=MFQO06N1J
+
+
+https://dy.163.com/article/FRL20B9O05419EOY.html?f=post2020_dy_recommends
+https://claremontreviewofbooks.com/the-chinese-challenge/
+
+http://open.163.com/newview/movie/free?pid=MEL53E6UR&mid=MELHAHSP2
+
+
+
+
+https://zhuanlan.zhihu.com/p/83449008
+https://www.zhihu.com/question/409832205
+
+
+https://www.zhihu.com/question/61785508
+https://www.zhihu.com/question/27862634
+
+
+https://www.zhihu.com/question/271685630
+https://zhuanlan.zhihu.com/p/30007037
+
+
+https://blog.csdn.net/qq_31821675/article/details/72853551
+
+ansi c标准
+
+
+
+
+
+
+
+https://www.cnblogs.com/feng9exe/p/10059601.html
+
+
+https://www.pianshen.com/article/5293272183/
+
+https://www.sohu.com/a/433035411_99964370?scm=1002.3e003b.1bb01f5.PC_24H_ARTICLE&_f=index_betapagehotnews_5&spm=smpc.content.tw.5.1605874693854iD7IASB
+https://www.sohu.com/a/433017665_99964370?scm=1002.3e003b.1bb01f5.PC_24H_ARTICLE&_f=index_betapagehotnews_4&spm=smpc.content.tw.4.1605874693854iD7IASB
+https://www.sohu.com/a/433027612_120093003?scm=1002.3e003b.1bb01f5.PC_24H_ARTICLE&_f=index_betapagehotnews_3&spm=smpc.content.tw.3.1605874693854iD7IASB
+
+
+
+
+
+
+
+
+heap 
+stack
+
+
+
+
+
+
+
+
+
+
+
+内存对齐
+预编译命令#pragma pack(n)
 
 
