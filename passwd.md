@@ -2,7 +2,7 @@
 
 GlobalHandle: Teacher@2020, Ananzaijiama?17       
 SAP:          Power@2020, Ananzaijiama?17       
-PC:           Nikki@2020, Teacher@2020      
+PC:           Nikki@2020, Teacher@2020, Sailup@now.1245          
 DutyPC:       Shiny@2020, Nikki@2020     
 
 EasyHRO:      ananzaijiama?17        
