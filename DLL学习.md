@@ -50,19 +50,8 @@ HCURSORLoadCursor(hInstance, lpCursorName)
 
 # Video
 
-
-
-
 Cheat Engine 由浅入深修改游戏 +外挂辅助原理
 https://www.bilibili.com/video/BV1Tb411v7YW/?spm_id_from=333.788.recommend_more_video.8
-
-
-
-
-
-
-
-
 
 CE嗨游戏逆向 从入门到精通辅助 基础篇
 https://www.bilibili.com/video/BV1qa4y1Y7e6/?spm_id_from=333.788.recommend_more_video.1
@@ -71,20 +60,14 @@ https://www.bilibili.com/video/BV1qa4y1Y7e6/?spm_id_from=333.788.recommend_more_
 CE嗨游戏逆向 从入门到精通辅助 进阶篇
 https://www.bilibili.com/video/BV1qg4y1q7Be/?spm_id_from=333.788.recommend_more_video.-1
 
-
-
 CE嗨游戏逆向 从入门到精通辅助 高阶篇
 https://www.bilibili.com/video/BV1wg4y1v7Xa/?spm_id_from=333.788.recommend_more_video.0
-
-
 
 CE教学实例应用-由浅入深学习游戏修改
 https://www.bilibili.com/video/BV1cE411E7h7/?spm_id_from=333.788.recommend_more_video.4
 
-
 一只大笨熊
 https://www.bilibili.com/video/BV1wv411s7V2/?spm_id_from=333.788.recommend_more_video.15
-
 
 2020年CF思路教程
 https://www.bilibili.com/video/BV1dV411R7kF/?spm_id_from=333.788.recommend_more_video.7
@@ -104,43 +87,23 @@ https://www.bilibili.com/video/BV1XE411k7PN/?spm_id_from=333.788.recommend_more_
 https://www.bilibili.com/video/BV1zK4y1C7z4/?spm_id_from=333.788.recommend_more_video.2
 https://www.bilibili.com/read/cv5610404
 
-
-
-
 从零开始写编译器有多难？其实很简单，一学就会！想学？我教你啊。
 https://www.bilibili.com/video/BV1L7411C7K1/?spm_id_from=333.788.recommend_more_video.1
-
-
 
 DLL注入的四种方法——直接注入、代码注入、PE修改、机器码注入
 https://www.bilibili.com/video/BV12541167mJ/?spm_id_from=333.788.videocard.10
 
-
 TED演讲：顶级黑客给你演示黑客的操作
 https://www.bilibili.com/video/BV1x4411g78i/?spm_id_from=333.788.recommend_more_video.2
-
-
 
 CE进阶教程1（查找基址和代码注入）[必学！]
 https://www.bilibili.com/video/BV14E41117k7/?spm_id_from=333.788.recommend_more_video.-1
 
-
 《C语言-C++学习指南》18.1-多文件项目,extern的用法
 https://www.bilibili.com/video/BV1Fs411k7v7/?spm_id_from=333.788.videocard.3
 
-
-
-
-
 C/C++动态库和静态库的编译和链接
 https://www.bilibili.com/video/BV19t4y1e7YD/?spm_id_from=333.788.recommend_more_video.3
-
-
-
-
-
-
-
 
 
 kongxingjiduchunqiu wenshuinengbaituogudumozhou
@@ -162,116 +125,60 @@ I Tried Making a 3D RPG Game in JavaScript
 https://www.youtube.com/watch?v=SBfZAVzbhCg
 
 
-
-
 I Tried Making a 3D MMORPG Game in JavaScript
 https://www.youtube.com/watch?v=IptkgFOoci0
-
-
-
-
-
-
-
-
-
-
 
 
 PowerShell part 1 Getting Started
 https://www.youtube.com/watch?v=H2MrvlLr-wg
 
-
-
-
 Introduction to Scripting Concepts part 1
 https://www.youtube.com/watch?v=blceAJU6Zyw
-
 
 What is Active Directory?
 https://www.youtube.com/watch?v=i9I5poSokow
 
-
-
-
-
 Understanding Windows Applications: Day 1 What are Windows' Processes?
 https://www.youtube.com/watch?v=aSNHMv8AEKg
-
-
 
 Understanding Windows Applications: Day 2 What is a Scheduler?
 https://www.youtube.com/watch?v=dSEXLXURKGk
 
-
 Understanding Windows Applications Day 3 Hardware subsystems
 https://www.youtube.com/watch?v=ZCmizwyhdvo
-
-
-
 
 Understanding Windows Applications: Day 5 Threads and Handles
 https://www.youtube.com/watch?v=MayYZ8HpjNg
 
-
 Understanding Windows Applications: Day 6 DLLs
 https://www.youtube.com/watch?v=gW3khtzm38s
-
-
 
 What is a TLS Cipher Suite?
 https://www.youtube.com/watch?v=ZM3tXhPV8v0
 
-
-
-
-
 Windows 10 Architecture: Unlock troubleshooting secrets
 https://www.youtube.com/watch?v=OXvGAAnu7FE
-
-
-
-
-
-
-
 
 Windows's Registry: A Technical Review of this Complex Database
 https://www.youtube.com/watch?v=-bsLmDfvF1Y
 
-
-
-
-
 Understanding Windows Registry
 https://www.youtube.com/watch?v=_U78iAem3uo
-
-
 
 Understanding DLLs in Processes
 https://www.youtube.com/watch?v=XXkxkruDRmA
 
-
-
 Windows Registry Tutorial
 https://www.youtube.com/watch?v=Zp63Ahunpgc
-
-
 
 Introduction to Decorated Names, Dumpbin, Dependency walker (C++) PART 1
 https://www.youtube.com/watch?v=xfI1p1egqHM
 
-
-
 Introduction to Decorated Names, Dumpbin, Dependency walker (C++) PART 2
 https://www.youtube.com/watch?v=UQ3FwxUA2Lk
 
-
-
 Windows Registry Add Delete Modify KEYS AND VALUES
 https://www.youtube.com/watch?v=MdSIr_z9NLM
-
-
 
 Reverse Engineering 1
 https://www.youtube.com/watch?v=cATBah30jk0
@@ -279,15 +186,11 @@ https://www.youtube.com/watch?v=cATBah30jk0
 [Live] GHIDRA HYPE!! - NSA Reverse Engineering Tool
 https://www.youtube.com/watch?v=qtoS3CG6ht0
 
-
 How To Make Your Own Injector (BEGINNER C++ GAME HACKING TUTORIAL 2019)
 https://www.youtube.com/watch?v=jbOcaSZ5ZRA
 
 Rink Springer: How hackers grind an MMORPG: by taking it apart!
 https://www.youtube.com/watch?v=9pCb0vIp_kg
-
-
-
 
 DLL Injection PART 1
 https://www.youtube.com/watch?v=pBdPIzvPn50
@@ -295,32 +198,19 @@ https://www.youtube.com/watch?v=pBdPIzvPn50
 DLL Injection PART 2
 https://www.youtube.com/watch?v=Chc5MlqX73U
 
-
-
 DEFCON 19: Hacking MMORPGs for Fun and Mostly Profit ( w speaker)
 https://www.youtube.com/watch?v=hABj_mrP-no
-
 
 Patching Binaries (with vim, Binary Ninja, Ghidra and radare2) - bin 0x2F
 https://www.youtube.com/watch?v=LyNyf3UM9Yc
 How To Reverse Engineer ANY GAME For An Internal Hack Using IDA (CreateMove In CSGO)
 https://www.youtube.com/watch?v=o2X4fDbfSXA
 
-
-
-
 HackadayU: Reverse Engineering with Ghidra Class 1
 https://www.youtube.com/watch?v=d4Pgi5XML8E
 
-
-
-
-
 GAMEHACKING FOR BEGINNERS (C++)
 https://www.youtube.com/watch?v=6vrGQO2pX80
-
-
-
 
 MMORPG Bot Reverse Engineering and Tracking
 https://www.youtube.com/watch?v=irhcfHBkfe0
@@ -328,34 +218,194 @@ https://www.youtube.com/watch?v=irhcfHBkfe0
 MMORPG Bot part 2 - Some thoughts on the data
 https://www.youtube.com/watch?v=aRDGI7UVSuI
 
-
-
 C++ Game Hacking Tutorial Ep.1 | Reading/Writing Memory
 https://www.youtube.com/watch?v=zFUHrg-wdmo
-
-
 
 DLL vs EXE | Windows DLL Hell
 https://www.youtube.com/watch?v=HVigruKph74
 
-
 Dll Injection Explained (how it works + source code)
 https://www.youtube.com/watch?v=IBwoVUR1gt8
-
-
-
-
 
 CppCon 2017: James McNellis “Everything You Ever Wanted to Know about DLLs”
 https://www.youtube.com/watch?v=JPQWQfDhICA
 
-
-
-
-
 Communication Manager: Information about "List Trace" enhancements
 https://support.avaya.com/ext/index?page=content&id=ADMN105847
 
-
 Communication Manager: How to write "List Trace" output into the Log-File
 https://support.avaya.com/ext/index?page=content&id=ADMN105861
+
+
+
+
+
+
+
+【c语言】11.如何编写Makefile文件
+https://www.bilibili.com/video/BV1hE411N7BK/?spm_id_from=333.788.recommend_more_video.-1
+
+
+
+史上最强最细腻的C语言学习教程【李慧琴老师】
+https://www.bilibili.com/video/BV18p4y167Md/?spm_id_from=333.788.recommend_more_video.-1
+
+
+
+CE嗨入门教程一、如何修改游戏
+https://www.bilibili.com/video/BV1ax411v77Q/?spm_id_from=333.788.recommend_more_video.0
+
+CE嗨入门教程二、快速找到基址和指针
+https://www.bilibili.com/video/BV1tx411v7nA/?spm_id_from=333.788.recommend_more_video.3
+
+CE嗨入门教程三、通过一个地址快速找到其他地址
+https://www.bilibili.com/video/BV1ix411v7dV/?spm_id_from=333.788.recommend_more_video.-1
+
+CE嗨入门教程四、制作一个简易的游戏修改器
+https://www.bilibili.com/video/BV11x411v7zj/?spm_id_from=333.788.recommend_more_video.-1
+
+
+绿竹过游戏驱动（过检测）保护
+https://www.bilibili.com/video/BV1UE411y7Tc/?spm_id_from=333.788.recommend_more_video.12
+
+
+
+
+CE指针扫描无结果解决和基址搜索教学
+https://www.bilibili.com/video/BV1oE411F72A/?spm_id_from=333.788.recommend_more_video.-1
+
+CE查找64位游戏基址
+https://www.bilibili.com/video/BV1PK411W7HU/?spm_id_from=333.788.recommend_more_video.2
+
+第二课：查找普攻基址实现打怪
+https://www.bilibili.com/video/BV1Hv411B7gZ/?spm_id_from=333.788.recommend_more_video.1
+
+用CE调试找游戏功能call
+https://www.bilibili.com/video/BV1sf4y1X7eB/?spm_id_from=333.788.recommend_more_video.-1
+
+【虫虫联盟WPE】游戏封包修改十大思路
+https://www.bilibili.com/video/BV1Bx411i7E2/?spm_id_from=333.788.recommend_more_video.2
+
+易语言编程实现封包自动打怪
+https://www.bilibili.com/video/BV1hz4y1y7NC/?spm_id_from=333.788.recommend_more_video.1
+
+【游戏逆向】封包工具的使用/网络发包原理
+https://www.bilibili.com/video/BV11J411k7gm/?spm_id_from=333.788.recommend_more_video.1
+
+
+CE实现FPS游戏无后坐教程
+https://www.bilibili.com/video/BV1K4411273b/?spm_id_from=333.788.recommend_more_video.1
+
+【游戏逆向】CE和OD工具的使用/找数据方法/游戏安全逆向
+https://www.bilibili.com/video/BV1dE411Y734/?spm_id_from=333.788.recommend_more_video.-1
+
+第二期数据逆向第十七课之工具遍历数据
+https://www.bilibili.com/video/BV1nv411x7ff/?spm_id_from=333.788.recommend_more_video.1
+
+
+三大类辅助制作零基础学习【更新中......】
+https://www.bilibili.com/video/BV1vA411e7wb/?spm_id_from=333.788.recommend_more_video.-1
+
+
+三分钟学会如何用CE修改CS1.6子弹无后座
+https://www.bilibili.com/video/BV1b4411X7Lc/?spm_id_from=333.788.recommend_more_video.1
+
+
+如何用易语言做出CS1.6无限子弹,无后座力,人物加速,等等!教学视频
+https://www.bilibili.com/video/BV1aE411s7kq/?spm_id_from=333.788.recommend_more_video.2
+
+
+传奇永恒逆向分析【1】- 概述
+https://www.bilibili.com/video/BV1AK4y1p7mR/?spm_id_from=333.788.recommend_more_video.2
+
+
+价值千元的逆向破解实战vip课程
+https://www.bilibili.com/video/BV1Ni4y1G7DL/?spm_id_from=333.788.recommend_more_video.0
+
+
+CE修改器入门到进阶
+https://www.bilibili.com/video/BV14741137kN/?spm_id_from=333.788.recommend_more_video.1
+
+
+[CE修改]CS1.6功能合集
+https://www.bilibili.com/video/BV15f4y1k7pm/?spm_id_from=333.788.recommend_more_video.-1
+
+
+纯内存自动主线任务演示
+https://www.bilibili.com/video/BV1qV41127CL/?spm_id_from=333.788.recommend_more_video.0
+
+
+CS绘制与地址查找（一）
+https://www.bilibili.com/video/BV1UW411U7hT/?spm_id_from=333.788.recommend_more_video.2
+
+
+透视狂魔！你是把透视技能点满了？
+https://www.bilibili.com/video/BV1wJ411w7a3/?spm_id_from=333.788.recommend_more_video.1
+
+小冷过游戏检测技术
+https://www.bilibili.com/video/BV1Ma4y177ht/?spm_id_from=333.788.recommend_more_video.0
+
+
+制作属于你自己的第一款第一人称射击(FPS)游戏
+https://www.bilibili.com/video/BV1ZE411W71X/?spm_id_from=333.788.recommend_more_video.2
+
+FPS外部方框D3D9绘制教程（找PE）
+https://www.bilibili.com/video/BV1hZ4y1x7tP/?spm_id_from=333.788.recommend_more_video.-1
+
+
+07_易语言_绘制方框
+https://www.bilibili.com/video/BV1gA411b7PN/?spm_id_from=333.788.recommend_more_video.0
+
+
+
+易语言fps辅助原理
+https://www.bilibili.com/video/BV1xv411b7dF/?spm_id_from=333.788.recommend_more_video.-1
+
+2020年易语言FPS辅助从零基础到独立完成
+https://www.bilibili.com/video/BV1yK4y147g8/?spm_id_from=333.788.recommend_more_video.0
+
+FPS外部方框D3D9绘制教程第二集(利用易语言绘制方框)
+https://www.bilibili.com/video/BV1Nz411z7tx/?spm_id_from=333.788.recommend_more_video.0
+
+
+
+
+这僵尸身上怎么有框？植物大战僵尸方框透视教程
+https://www.bilibili.com/video/BV18t4y1y7wy/?spm_id_from=333.788.recommend_more_video.3
+
+过游戏检测技术
+https://www.bilibili.com/video/BV1J7411U7KD/?spm_id_from=333.788.recommend_more_video.8
+
+郁金香驱动过保护教程
+https://www.bilibili.com/video/BV13z4y1S7fp/?spm_id_from=333.788.recommend_more_video.10
+
+梦无极过游戏驱动保护教程
+https://www.bilibili.com/video/BV1mQ4y1M7fU/?spm_id_from=333.788.recommend_more_video.11
+
+驱动保护视频教程
+https://www.bilibili.com/video/BV1eW411178R/?spm_id_from=333.788.recommend_more_video.7
+
+
+手把手从零开始学网络游戏驱动级过保护课程简要
+https://www.bilibili.com/video/BV1Ut411y7Q3/?spm_id_from=333.788.recommend_more_video.5
+
+
+ce教程入门到实现方框透视
+https://www.bilibili.com/video/BV1mv411k7sA/?spm_id_from=333.788.recommend_more_video.4
+
+
+Dx系列教程 第二课 Dx垂直同步 性能优化 ImGui基础使用几何图形绘制
+https://www.bilibili.com/video/BV1YK4y1V7Pr/?spm_id_from=333.788.recommend_more_video.1
+
+ce教程入门到实现方框透视
+https://www.bilibili.com/video/BV1mv411k7sA/?spm_id_from=333.788.recommend_more_video.13
+
+【C指针】多级指针难吗？10级指针也只是套娃而已？
+https://www.bilibili.com/video/BV19Z4y1W7MX/?spm_id_from=333.788.recommend_more_video.1
+
+
+【CE】6. 内存基址查找原理
+https://www.bilibili.com/video/BV1J7411b79x/?spm_id_from=333.788.recommend_more_video.8
+
+【CE】8. 自动扫描内存基址
+https://www.bilibili.com/video/BV1DE41157GN/?spm_id_from=333.788.recommend_more_video.2
