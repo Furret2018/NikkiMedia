@@ -73,6 +73,7 @@ HRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 		// MessageBox(NULL, TEXT("Enter the WndProc OK!"), TEXT("Warning"), MB_OK);
 		break;
 		
+		// !!! Necessary. Otherwise the process will not exit even thougth the main window is closed
 		case WM_DESTROY:
 		PostQuitMessage(0);
 		break;
