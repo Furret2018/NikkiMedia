@@ -13,7 +13,10 @@ pearsonvue.com/avaya:  AuraBladeReal@2020
 AvayaCMS : Jack Liu - AV183057Real@2020    
 Yinyuetai.com:Aura2018      
 zjlib.cn:     881201                      
-https://evantage.gilmoreglobal.com    Focusonone@2021
+https://evantage.gilmoreglobal.com    Focusonone@2021       
+
+Concentrix.com InwindDay@2021.05    
+
 
 
 
